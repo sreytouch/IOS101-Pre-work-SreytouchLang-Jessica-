@@ -25,6 +25,10 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 [Guide](https://www.youtube.com/watch?v=GA92eKlYio4)
 
+
+## Video Walkthrough
+<video src="PreWork_SreytouchLang.mp4" controls width="600"></video>
+
 ## App Brainstorming (Step 4)
 
 - A simple app that introduces myself through labels.
