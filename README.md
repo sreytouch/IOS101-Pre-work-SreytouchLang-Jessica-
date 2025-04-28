@@ -4,7 +4,7 @@ Submitted by: **Sreytouch Lang**
 
 **Sreytouch Lang App** is an app that displays personal information and allows users to change the background color randomly by tapping a button.
 
-Time spent: **X** hours spent in total
+Time spent: **1** hours spent in total
 
 ## Overview
 
@@ -16,8 +16,8 @@ This is a simple iOS app built as part of the CodePath iOS 101 Prework. It featu
 
 The following **required** functionality is completed:
 
-- [x] Users see a screen with three labels and a button
-- [x] Tapping the button changes the screen color to a random color
+- 0.4 Users see a screen with three labels and a button
+- 0.6 Tapping the button changes the screen color to a random color
 
 ## Video Walkthrough
 
