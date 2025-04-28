@@ -23,8 +23,12 @@ The following **required** functionality is completed:
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README.
 
-[Guide](https://imgur.com/ePFoPBA.gif)
 
+👉 [Click here to view the GIF walkthrough](https://imgur.com/ePFoPBA.gif)
+
+or watch the video below:
+
+<video src="PreWork_SreytouchLang.mp4" controls width="600"></video>
 
 
 ## App Brainstorming (Step 4)
